@@ -1,0 +1,136 @@
+body{
+font-family:'Poppins', sans-serif;
+}
+.img-logo{
+width: 25%;
+height: auto;
+}
+.img-bg{
+    background-color: #F0FFF0;
+}
+.button-color{
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    height: 43px;
+    padding: 10px 20px;
+    color:white;
+    position: relative;
+}
+.lightgreen-bg{
+background-color: #F0FFF0;
+
+}
+#carousel-text{
+    padding: 6% 9% ;
+    font-size: 16px;
+    line-height: 36px;
+    
+}
+.color-span{
+    color: #21B573;
+
+}
+#h5-red{
+    color:#FD511A;
+}
+h1{
+    font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+#h5-gray{
+color: #6C6B6B;}
+
+
+.categories img{
+    width: 100px;
+    height: 100px;
+    align-self: center;
+    margin-top: 10px;
+}
+.first-card{
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    height: 200px;
+}
+#shadow{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+    border: none;
+
+}
+.icon{
+    width: 24px;
+    height: 24px;
+}
+.right-alignment{
+    width: 24px;
+    height: 24px;
+    align-items: flex-end;
+}
+.bold-h2{
+    text-align: center;
+    color: #413960;
+}
+.second-card{
+    border: none;
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    height: 480px;
+    width: 370px;
+
+}
+.border{
+    height: 230px;
+    width: 330px;
+    align-self: center;
+    margin-top: 25px;
+    border-radius: 15px;
+
+}
+
+.black-h2{
+    color:#000000;
+    line-height: 54px;
+    text-align: center;
+}
+
+.test-img{
+    width: 120px;
+    height: 120px;
+    align-self: center;
+
+}
+.positioning-img{
+    align-items: center;
+    margin: 40px 100px 50px 500px;
+}
+.positioning-text{
+    align-self: center;
+    margin: 50px 300px 30px 100px;
+}
+.last-card{
+    background-color: #282531;
+    width: 200%;
+    height: 300px;
+    margin: auto;
+    border: none;
+
+}
+.card-text{
+    color: white;
+}
+.h5-white{
+color: white;
+}
+
+#Blog{
+    height: 300px;
+
+}
+footer{
+    text-align: center;
+}
